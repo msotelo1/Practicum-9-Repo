@@ -14,8 +14,5 @@ because of not knowning about the "divisible by 400" part of the rule.
 <br><br>
 ### WHAT TO DO
 
-- `Execute the program.` Make any needed changes to the program so that
-the program can execute (i.e., without syntax or runtime errors).
-- `Test the program` and correct any logic errors.
-- `Run the predefined tests` (click Tests icon in the left column
-under Tools) and correct any remaining logic errors.
+- `Make any needed changes` to the program so that the program can execute without any syntax, runtime or logic errors.
+
